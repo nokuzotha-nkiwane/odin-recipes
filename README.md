@@ -1,7 +1,7 @@
 # odin-recipes
 The recipes included are for exercise purposes only and may be attempted at the risk of your taste buds. Have fun!
 
-## Folder Structure
+### Folder Structure
 ```
 odin-recipes
 ├── images
