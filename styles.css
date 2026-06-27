@@ -2,3 +2,8 @@
     box-sizing: border-box;
 }
 
+img {
+    display: block;
+    width: 750px;
+    margin: 40px auto;
+}
