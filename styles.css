@@ -9,3 +9,10 @@ img {
     border: 10px solid navajowhite;
     margin: 40px auto;
 }
+
+button {
+    display: inline-block;
+    background-color: navajowhite;
+    padding: 7px;
+    margin: 10px;
+}
