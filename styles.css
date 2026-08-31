@@ -11,8 +11,11 @@ img {
 }
 
 button {
-    display: inline-block;
     background-color: navajowhite;
     padding: 7px;
     margin: 10px;
+}
+
+a {
+    text-decoration: none;
 }
