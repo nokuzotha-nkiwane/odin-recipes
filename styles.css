@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    /* border: 1px solid red; */
 }
 
 img {
@@ -18,4 +19,24 @@ button {
 
 a {
     text-decoration: none;
+    /* margin-left: auto; */
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: navajowhite;
+    gap: 1em;
+}
+
+h1 {
+    font-size: 4em;
+    padding-left: 0.2em;
+}
+
+.home {
+    font-size: 2em;
+    padding-right: 0.5em;
+    color: olive;
 }
